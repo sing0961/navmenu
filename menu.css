@@ -16,7 +16,7 @@ html{
     font-family: helvetica, arial, sans-serif;
 }
 html, body{
-    background-color: #E8D393;
+    background-color: #F5E6C9;
 }
 h1{
     font-size: 6.854rem;
@@ -37,18 +37,19 @@ p{
     font-size: 1.618rem;
     padding: 1rem 2rem;
     font-family: 'Dosis','Palatino Linotype', 'Book Antiqua', Palatino, serif;
+
 }
 .wrapper{
     max-width: 1400px; 
     width: 80%;
     margin: 0 auto;
-    background-color: #FF7B52;
-    color: #4C4EA8;
+    background-color: #F58335;
+    color: #553785;
 }
 header{
-    border-bottom: 0.8rem solid #A82C26;
-    background-color: #58A84A;
-    color:#FDFFFA;
+    border-bottom: 0.8rem solid #000000;
+    background-color: #74F5A3;
+    color:#127848;
 }
 .menu-h{
     width: 100%;
@@ -73,16 +74,16 @@ header{
             /* style the anchors to fill the entire width of the li 
             make sure there is padding around your text */
             display: block;
-            color: #4C4EA8;
+            color: #553785;
             text-decoration:none;
             cursor: pointer;
             
         }
         .menu-h a:hover,
         .menu-h a:active{
-            color: #DCFFFD;
+            color: #D1F5E5;
             font-variant: small-caps;
-            background-color: #00477A;
+            background-color: #032F73;
             
         }
 .menu-v{
@@ -112,7 +113,7 @@ header{
             display: block;
 /*            no underline optional*/
             text-align: center;
-            color: #4C4EA8;
+            color: #553785;
             text-decoration: none;
             cursor:pointer;
 /*    add to show width works otherwise optional        */
@@ -123,11 +124,11 @@ header{
         }
         .menu-v a:hover,
         .menu-v a:active{
-            font-style: italic;
-            color:#DCFFF7;
-            font-variant:small-caps;
-            background-color: #A82500;
-            
+            font-style:italic;
+            color:#D1F5E5;
+            font-variant:inherit;
+            background-color: #D12B02;
+            font-weight: 700;
         }
 main{
     width:80%;
