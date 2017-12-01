@@ -13,7 +13,7 @@ html{
     font-size: 16px;
     line-height: 1.6;
     /* ADD the Google sans-serif font to this font stack */
-    font-family: helvetica, arial, sans-serif;
+    font-family: 'Dosis',helvetica, arial, sans-serif;
 }
 html, body{
     background-color: #F5E6C9;
@@ -47,7 +47,7 @@ p{
     color: #553785;
 }
 header{
-    border-bottom: 0.8rem solid #000000;
+    border-bottom: 0.8rem solid #373C7F;
     background-color: #74F5A3;
     color:#127848;
 }
@@ -63,8 +63,8 @@ header{
         width: 20%;
         text-align: center;
         line-height: 1.2;
-        border-left: 1px solid #000000;
-        border-bottom: 1px solid #000000;
+        border-left: 1px solid #949BFF;
+        border-bottom: 1px solid #949BFF;
     }
         .menu-h a,
         .menu-h a:link,
@@ -100,8 +100,8 @@ header{
         width: 100%;
         text-align: center;
         line-height: 1.2;
-        border-left: 1px solid #000000;
-        border-bottom: 1px solid #000000;
+        border-left: 1px solid #797F37;
+        border-bottom: 1px solid #7F612D;
        color: 
         
         
