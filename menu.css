@@ -21,13 +21,13 @@ html, body{
 h1{
     font-size: 6.854rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Lusitana','Palatino Linotype', 'Book Antiqua', Palatino, serif; 
+    font-family: 'Lusitana','Palatino Linotype','Book Antiqua', Palatino, serif; 
     padding: 1rem 2rem;
 }
 h2{
     font-size: 4.23rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Dosis','Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-family: 'Lusitana','Palatino Linotype','Book Antiqua', Palatino, serif;
     padding: 1rem 2rem;
 }
 nav li{
@@ -36,7 +36,7 @@ nav li{
 p{
     font-size: 1.618rem;
     padding: 1rem 2rem;
-    font-family: 'Dosis','Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-family: 'Lusitana','Palatino Linotype', 'Book Antiqua', Palatino, serif;
 
 }
 .wrapper{
